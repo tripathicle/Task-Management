@@ -3,7 +3,7 @@
 ![Django](https://img.shields.io/badge/Django-4.2-092E20?style=flat-square&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)
 
-A **simple yet robust** To-Do application built with **Django**, designed for task management with a focus on clean code and easy setup.
+A **simple yet robust** Task Manager application built with **Django**, designed for task management with a focus on clean code and easy setup.
 <img width="218" alt="image" src="https://github.com/tripathicle/Task-Management/blob/main/Task_manager.png" />
 
 
