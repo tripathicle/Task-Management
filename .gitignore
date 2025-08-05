@@ -1,0 +1,43 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Django SQLite DB
+db.sqlite3
+
+# Django migration files (optional - only ignore auto-generated ones)
+**/migrations/*.pyc
+**/migrations/*.pyo
+**/migrations/__pycache__/
+!**/migrations/__init__.py
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python test cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Environment files (if any)
+.env
